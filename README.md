@@ -17,6 +17,6 @@ The program for motor speed determination predicts a value of motor RPM required
 
 <h2>Steps to run the code</h2>
 
-1. Check the name and path of the dataset called in the code before running.
+1. Check the name and path of the dataset specified in the code.
 2. The Dataset given is fully detailed for the purpose of clear understanding. Remove all columns except the input variable and the predicted variable before running the code.
 3. Run the code on Google Colab.
