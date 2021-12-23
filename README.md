@@ -14,3 +14,9 @@ The program for steering angle determination predicts a value of steering angle 
 The program for motor speed determination predicts a value of motor RPM required for a given value of steering torque which is in turn determined by the value of steering angle predicted by the algorithm for steering angle prediction. The steering torque is predicted based on the given values of steering angle and vehicle speed. The value of steering torque is used to predict the required motor speed at a constant power of 500 W. Thus accuracy of torque prediction determines the accuracy of motor speed prediction The code for motor speed prediction can be run in Google Colab and the results are discussed here. Two methods of regression are used for prediction-Linear regression and Polynomial regression. The comparison of predictions made by both the methods is shown below.
 
 ![Motor_Speed_Prediction](https://user-images.githubusercontent.com/47554552/147252593-b4742f9f-8be9-44e0-b38f-b4b64deea333.jpeg)
+
+<h2>Steps to run the code</h2>
+
+1. Check the name of the dataset called in the code before running.
+2. The Dataset given is fully detailed for the purpose of clear understanding. Remove all columns except the input variable and the predicted variable before running the code.
+3. Run the code on Google Colab
