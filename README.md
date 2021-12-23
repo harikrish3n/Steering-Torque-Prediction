@@ -6,3 +6,4 @@ The dataset discussed above is used to train and test the machine learning algor
 STEERING ANGLE PREDICTION
 
 The program for steering angle determination predicts a value of steering angle required for a given value of turn radius. The code for steering angle prediction was run in Google Colabe. Two methods of regression are used for prediction-Linear regression and Polynomial regression. The comparison of predictions made by both the methods is shown below.
+![alt text](https://github.com/harikrish3n/Steering-Torque-Prediction/blob/main/Steering Angle Prediction.jpeg?raw=true)
